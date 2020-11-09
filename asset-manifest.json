@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.656d3a8b.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.916cbe63.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.916cbe63.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.14f01a53.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.14f01a53.js.map",
+    "static/js/2.6e86267e.chunk.js": "/react-portfolio/static/js/2.6e86267e.chunk.js",
+    "static/js/2.6e86267e.chunk.js.map": "/react-portfolio/static/js/2.6e86267e.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.6d71ecce6c9330962f177e19f4f48c16.js": "/react-portfolio/precache-manifest.6d71ecce6c9330962f177e19f4f48c16.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/main.656d3a8b.chunk.css.map": "/react-portfolio/static/css/main.656d3a8b.chunk.css.map",
+    "static/js/2.6e86267e.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.6e86267e.chunk.js.LICENSE.txt",
+    "static/media/Alfonso-Resume.docx": "/react-portfolio/static/media/Alfonso-Resume.1c102530.docx",
+    "static/media/portfolio-image.jpg": "/react-portfolio/static/media/portfolio-image.66d989b4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14f01a53.js",
+    "static/js/2.6e86267e.chunk.js",
+    "static/css/main.656d3a8b.chunk.css",
+    "static/js/main.916cbe63.chunk.js"
+  ]
+}
