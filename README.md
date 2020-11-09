@@ -1,10 +1,10 @@
 ## React Portfolio
 
-![Screenshot](./src/images/screenshot-react-port.png)
-[Deployed Application](https://d-belleza.github.io/react-portfolio/)
+
+[Deployed Application](https://pochobs.github.io/react-portfolio/)
 
 ## Description
-A portfolio developed using React.js by David Belleza.
+A portfolio developed using React.js by Alfonso Barreto.
 
 ## Table of Contents
 * [Installation](#installation)
@@ -19,11 +19,11 @@ Run npm install to install the required packages.
 After installation of the dependencies, the user can start the server using <$ npm start> and going to localhost.
 
 Application Deployment:
-[https://d-belleza.github.io/react-portfolio/](https://d-belleza.github.io/react-portfolio/)
+[https://d-belleza.github.io/react-portfolio/](https://pochobs.github.io/react-portfolio/)
 
 ## Questions
 Visit my Github
-[d-belleza](https://github.com/d-belleza)
+[Alfonso Barreto](https://github.com/pochobs)
 
 Additional questions, please send an email at
-[davidbelleza@gmail.com](mailto:davidbelleza@gmail.com)
+[Alfonso Barreto@gmail.com](mailto:pochobs@gmail.com)
