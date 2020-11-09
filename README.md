@@ -19,7 +19,7 @@ Run npm install to install the required packages.
 After installation of the dependencies, the user can start the server using <$ npm start> and going to localhost.
 
 Application Deployment:
-[https://d-belleza.github.io/react-portfolio/](https://pochobs.github.io/react-portfolio/)
+[https://pochobs.github.io/react-portfolio/](https://pochobs.github.io/react-portfolio/)
 
 ## Questions
 Visit my Github
