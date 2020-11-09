@@ -1,11 +1,18 @@
 import React from 'react';
 
+function Header(props) {
 
-const Header = () => {
 
-    return(
-        <div className="Header"></div>
-    )
-};
+    return (
+        <header className="flex-row px-1">
+            <h2>
+                <a href="/">
+                    Alfonso Barreto
+                </a>
+                {props.children}
+            </h2>
+        </header>
+    );
+}
 
 export default Header;
